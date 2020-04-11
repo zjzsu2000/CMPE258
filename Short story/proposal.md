@@ -1,6 +1,8 @@
 Application of machine learning / deep learning in finance / investment
 
 (Proposal of short story)
+                                                                                                          Jack Chow(Jie Zou)
+                                                                                                          ID:014545284
 
 Deep learning is a part of machine learning that learns data representations. Finance is money management. Deep learning in finance is the application of deep learning technologies in the finance field.
 
