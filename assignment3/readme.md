@@ -19,3 +19,4 @@ https://tensorboard.dev/experiment/KpfJowPcRgq2S5X0lzYtLA/
 - 3conv-0.7dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
 '''
 
+![image](https://github.com/zjzsu2000/CMPE258/blob/master/assignment3/tensorboard_dev.jpg)
